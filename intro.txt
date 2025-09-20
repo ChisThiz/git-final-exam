@@ -1,0 +1,11 @@
+--- Giới thiệu bản thân ---
+Xin chào, tôi là Võ Chí Thiện.
+Tôi là một sinh viên yêu thích công nghệ và luôn muốn tìm tòi những điều mới.
+Sở thích:
+- Đọc sách
+- Nghe nhạc
+- Chơi thể thao
+Kỹ năng:
+- Lập trình Python
+- Quản lý phiên bản với Git
+- Làm việc nhóm
