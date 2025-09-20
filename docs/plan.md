@@ -9,3 +9,7 @@ Bắt đầu từ: 20/09/2025
 - Nghiên cứu Django hoặc Flask.
 - Xây dựng một trang web đơn giản.
 Kết thúc vào: 03/10/2025
+
+--- Tuần 3: Tìm hiểu về cơ sở dữ liệu ---
+- Học MySQL/PostgreSQL.
+- Thực hành thiết kế database.
