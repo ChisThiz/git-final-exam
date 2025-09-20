@@ -10,3 +10,9 @@ Kỹ năng:
 - Lập trình Python
 - Sử dụng Git
 - Làm việc nhóm
+--- Kế hoạch học tập ---
+Tuần 1: Học Python nâng cao.
+Tuần 2: Tìm hiểu về framework Django.
+Tuần 3: Xây dựng một ứng dụng web cơ bản.
+Tuần 4: Ôn tập và hoàn thiện dự án.
+Tuần 5: Cải thiện kỹ năng làm nhóm.
