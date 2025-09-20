@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, this is Võ Chí Thiện
+=======
+Xin chào, tôi là Võ Chí Thiện
+>>>>>>> feature-update
