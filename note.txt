@@ -1,3 +1,5 @@
 - Git là một công cụ mạnh mẽ.
 - Ban đầu tôi thấy hơi khó dùng.
 - Nhưng khi quen rồi thì nó rất hiệu quả.
+- Tôi sẽ dùng Git cho mọi dự án cá nhân và nhóm.
+- Việc quản lý phiên bản giúp tôi tự tin hơn.
