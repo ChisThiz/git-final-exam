@@ -1,0 +1,12 @@
+--- Giới thiệu bản thân ---
+Xin chảo, tôi là Võ Chí Thiện.
+Giới thiệu: Tôi là một sinh viên năm ba, đam mê công nghệ và lập trình. Tôi thích giải quyết các vấn đề phức tạp và học hỏi những điều mới.
+Sở thích:
+Sở thích:
+- Đọc sách
+- Nghe nhạc
+- Chơi thể thao
+Kỹ năng:
+- Lập trình Python
+- Sử dụng Git
+- Làm việc nhóm
