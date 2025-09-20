@@ -1,0 +1,3 @@
+Tính năng mới: Trang giới thiệu thành viên
+
+Trang này sẽ hiển thị thông tin chi tiết của mỗi thành viên trong nhóm, bao gồm họ tên, mã số sinh viên, và các dự án đã thực hiện.
